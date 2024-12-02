@@ -1,1 +1,1 @@
-# NSTU.-
+# NSTU.Bot
